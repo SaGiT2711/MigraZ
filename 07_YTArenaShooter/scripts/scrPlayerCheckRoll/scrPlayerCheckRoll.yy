@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrPlayerCheckRoll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrPlayerCheckRoll",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
